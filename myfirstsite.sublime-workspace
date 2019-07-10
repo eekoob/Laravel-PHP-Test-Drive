@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"completed",
+				"completed-tasks/{task\t(web.php)"
+			],
+			[
+				"res",
+				"request()->all"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pos",
+				"post_item"
+			],
+			[
+				"cate",
+				"category_name\t(Post.php)"
+			],
+			[
+				"category",
+				"category_id\t(Post.php)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"atitle"
+			],
+			[
+				"hea",
+				"header.html"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"is",
+				"isTall"
+			],
+			[
+				"array",
+				"array_push\t(server.php)"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"getT",
+				"gettype"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"pass",
+				"password_2"
+			],
+			[
+				"email",
+				"email\t(register.php)"
+			],
+			[
+				"registe",
+				"register.php\t(register.php)"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"re",
+				"registration"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"js",
+				"json_data\tstatement"
+			],
+			[
+				"cook",
+				"cookies"
+			],
+			[
+				"findele",
+				"find_elements\tfunction"
+			],
+			[
+				"sele",
+				"selenium\tmodule"
+			],
+			[
+				"find",
+				"find_elements_by_class_name\tfunction"
+			],
+			[
+				"find_element_by_CSS",
+				"find_element_by_css_selector\tfunction"
+			],
+			[
+				"find_e",
+				"find_element_by_css_selector\tfunction"
+			],
+			[
+				"exe",
+				"execute_script\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packace control user setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/JDUser/Desktop/myfirstsite/config/app.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/routes/web.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Providers/SocialServiceProvider.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Http/Controllers/ProjectsController.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Http/Controllers/CompletedTasksController.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Http/Controllers/ProjectTasksController.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Providers/AppServiceProvider.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/projects/show.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Foo.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Example.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Task.php",
+		"/D/Code/json_api.py",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Project.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/projects/create.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/errors.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/database/migrations/2019_02_18_090132_create_tasks_table.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Http/Controllers/PagesController.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/projects/edit.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/layout.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/projects/index.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Http/Controllers/PostController.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/projects/layout.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/.env",
+		"/C/Users/JDUser/Desktop/myfirstsite/config/database.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/database/migrations/2019_02_08_031113_create_projects_table.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/about.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/contact.blade.php",
+		"/C/Users/JDUser/Desktop/myfirstsite/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/web/api/post/read.php",
+		"/C/xampp/htdocs/web/models/Post.php",
+		"/C/xampp/htdocs/web/config/Database.php",
+		"/C/xampp/htdocs/web/api/read.php",
+		"/C/xampp/htdocs/web/site.php",
+		"/C/xampp/htdocs/web/header.html",
+		"/C/xampp/htdocs/web/footer.html",
+		"/C/xampp/htdocs/web/article-header.php",
+		"/C/xampp/htdocs/web/useful-tools.php",
+		"/C/xampp/htdocs/site.php/test",
+		"/C/xampp/htdocs/registration/server.php",
+		"/C/xampp/htdocs/registration/index.php",
+		"/C/xampp/htdocs/registration/style.css",
+		"/C/xampp/htdocs/registration/register.php",
+		"/C/xampp/htdocs/registration/login.php",
+		"/C/xampp/htdocs/registration/errors.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/registration/error.php",
+		"/C/xampp/htdocs/registration/test.html",
+		"/C/Users/JDUser/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/D/Code/php/registration/style.css",
+		"/D/Code/php/registration/register.php",
+		"/D/Code/php/registration.php",
+		"/C/xampp/phpMyAdmin/index.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/D/Code/djangoproject/djangoproject/urls.py",
+		"/D/Code/djangoproject/djangoproject/settings.py",
+		"/D/Code/djangoproject/manage.py",
+		"/D/Code/b.py",
+		"/D/Code/Java/MyClass.java",
+		"/D/Code/a.py",
+		"/D/Code/test.py",
+		"/C/Users/JDUser/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/JDUser/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/Code/Java/OtherClass.java",
+		"/D/Code/Java/course-api/src/main/java/io/javabrains/springbootstarter/hello/HelloController.java",
+		"/D/Code/Java/OtherClass",
+		"/D/Code/Java/.java",
+		"/D/Code/Java/app",
+		"/C/Program Files (x86)/Python37-32/lib/site-packages/selenium/webdriver/remote/webdriver.py",
+		"/D/Code/selenium.py",
+		"/D/Code/webdriver.py",
+		"/D/Code/geckodriver.log"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\web\\api\\post",
+			"C:\\xampp\\htdocs\\web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"findor",
+			"edit",
+			"projects",
+			"extension=mysql",
+			"extension=mysql.so",
+			"extension=mys",
+			"extension",
+			"password",
+			"^\\n",
+			".*",
+			"\\n",
+			"\\n\\n",
+			"type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 103.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myfirstsite.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"verify csrf",
+				"myfirstsite\\app\\Http\\Middleware\\VerifyCsrfToken.php"
+			],
+			[
+				"index blad",
+				"myfirstsite\\resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"appserviceprovider",
+				"myfirstsite\\app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"welcome",
+				"myfirstsite\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"about",
+				"myfirstsite\\resources\\views\\about.blade.php"
+			],
+			[
+				"r/w",
+				"myfirstsite\\routes\\web.php"
+			],
+			[
+				"route/web",
+				"myfirstsite\\routes\\web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
